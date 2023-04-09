@@ -1,0 +1,7 @@
+/* @import '~antd/dist/antd'; */
+
+body, html, #root, .wrapper {
+    font-family: 'Roboto', sans-serif;
+    height: 100%;
+    color: #202020;
+}
